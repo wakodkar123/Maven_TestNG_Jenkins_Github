@@ -7,5 +7,6 @@ public class FirstTest {
   public void f() 
   {
 	  System.out.println("Test Pass");
+	  System.out.println("Test Pass again");
   }
 }
